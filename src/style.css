@@ -68,3 +68,12 @@ button {
 button:hover {
   background: var(--purple-dark);
 }
+
+#resposta {
+  margin-top: 30px;
+}
+
+#resposta div {
+  font-size: 16px;
+  font-weight: normal;
+}
